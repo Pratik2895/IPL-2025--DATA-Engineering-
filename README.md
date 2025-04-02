@@ -35,15 +35,11 @@ Welcome to the **IPL 2025 Analytics** project! This is a complete **end-to-end d
 ![Orange Cap](https://github.com/KirandeepMarala/IPL-Analytics/blob/main/Images/orange_cap.png) 
 ![Match Summary](https://github.com/KirandeepMarala/IPL-Analytics/blob/main/Images/match_summary.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Home screen features IPL branding and team logos to provide a clean, user-friendly start point.  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Points table displays live standings, wins, losses, and net run rate.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Orange cap highlights the top run-scorers of the season along with key stats like strike rate and innings played.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Purple cap tracks leading wicket-takers with economy and bowling stats.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️ Match summary view complete scorecard summary for individual matches with player stats.
+  - Home screen features IPL branding and team logos to provide a clean, user-friendly start point.
+  - Points table displays live standings, wins, losses, and net run rate.
+  - Orange cap highlights the top run-scorers of the season along with key stats like strike rate and innings played.
+  - Purple cap tracks leading wicket-takers with economy and bowling stats.
+  - Match summary view complete scorecard summary for individual matches with player stats.
 
   🔗 **Live Interactive Report:** [Click Here to View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMGQwMDY2MjItNjI0NS00MWUzLTk3ZWQtNDc5Zjg0ZDZmNmYwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
