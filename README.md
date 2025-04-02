@@ -1,4 +1,4 @@
-# 📊 IPL 2025 Analytics – End-to-End Data Engineering Project
+# 📊 IPL 2025 Data Engineering Analytics
 Welcome to the **IPL 2025 Analytics** project! This is a complete **end-to-end data engineering and analytics pipeline**, powered by **Microsoft Fabric**, **BeautifulSoup**, and **Power BI**. The project fetches daily IPL 2025 match data from the web, processes and stores it in the Fabric Lakehouse, and presents it via insightful and interactive Power BI dashboards.
 <br></br>
 ![Home Page](https://github.com/KirandeepMarala/IPL-Analytics/blob/main/Images/ipl_home_page.png)
@@ -50,7 +50,7 @@ Welcome to the **IPL 2025 Analytics** project! This is a complete **end-to-end d
 ---
 
 ## 🔄 Automation Flow
-
+![All Elements](https://github.com/KirandeepMarala/IPL-Analytics/blob/main/Images/all_elements.jpg)
 - The pipeline is **automatically triggered daily at 6:30 AM IST** using Microsoft Fabric’s data pipeline.
 - Python web scraping code fetches updated match data.
 - Cleaned CSVs are stored in **Fabric Lakehouse**.
