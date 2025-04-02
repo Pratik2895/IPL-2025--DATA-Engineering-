@@ -53,3 +53,19 @@ Welcome to the **IPL 2025 Analytics** project! This is a complete **end-to-end d
 - Power BI dashboard is **auto-refreshed at 7:00 AM IST**, ensuring the latest insights are always visible.
 
 ---
+
+## 🎯 Conclusion
+
+This project showcases a **scalable and automated data engineering pipeline** for IPL 2025 analytics. By leveraging **Microsoft Fabric**, **Python (BeautifulSoup)**, and **Power BI**, we built a robust and efficient system to fetch, process, and visualize daily IPL data. The end-to-end workflow ensures real-time insights into match performances, player stats, and team standings.
+
+Feel free to reach out for any questions, suggestions, or collaboration opportunities! 😊
+
+---
+
+## 📬 Contact
+
+- **Author**: [kirandeep Marala](#)
+- **Email**: [kirandeep.marala@gmail.com](mailto:kirandeep.marala@gmail.com)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/kirandeepmarala/)
+
+---
