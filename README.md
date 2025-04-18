@@ -39,7 +39,7 @@ The project fetches daily IPL 2025 match data from the web, processes and stores
 
 🔗 **Live Interactive Report**: [Click to View Report](https://lnkd.in/g3tZMcs8)
 
-🔗 **Project Code & Details**: [GitHub Repository](https://lnkd.in/ghE_k6xy)
+🔗 **Project Code & Details**: [GitHub Repository](https://lnkd.in/ghE_k6xy](https://lnkd.in/eb6sqtnJ))
 
 ---
 
